@@ -4,6 +4,8 @@ Repository that represent a demonstration of access and refresh token
 
 ## Environment variables
 
+Need to create .env file in root of the project, once the project is cloned.
+
 ```bash
 AT_SECRET -> secret for access token
 AT_EXPIRES_IN -> expires time for access token
